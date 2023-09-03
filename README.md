@@ -1,4 +1,4 @@
-<br> 👋 Hi, I’m Ardi Pranata
+<br> 👋 Hi, I’m Ardy Pranata
 <br> 👀 hi@ardipranata.me
 <br> 💞️ I’m looking to collaborate on Communities, People.
 
