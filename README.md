@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/ardynatz">
-    <img height="160em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardynatz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="160em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardynatz&layout=compact&langs_count=8&theme=highcontrast"/>
+    <img height="160em" width="400" src="https://github-stats.ardy.lol/api?username=ardynatz&show_icons=true&show=prs_merged,prs_merged_percentage&theme=react"/>
+    <img height="160em" width="400" src="https://github-stats.ardy.lol/api/top-langs/?username=ardynatz&langs_count=8&layout=compact&theme=react"/>
   </a>
 </div>
