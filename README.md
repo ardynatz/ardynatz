@@ -1,5 +1,5 @@
 ### Hello, I'm Ardy Pranata👋
-> Welcome to my Github Profile.
+> Welcome to my GitHub Profile.
 
 
 ### ⚙️ &nbsp;My GitHub Analytics
