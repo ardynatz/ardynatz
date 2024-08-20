@@ -4,13 +4,9 @@
 
 <div align="center">
 
-## GitHub Stats
-
 | General Stats | Top Languages |
 |:-------------:|:-------------:|
 | <img height="180em" src="https://github-stats.ardy.lol/api?username=ardynatz&show_icons=true&theme=graywhite&show=discussions_answered&rank_icon=github&include_all_commits=true&hide_border=true" /> | <img height="180em" src="https://github-stats.ardy.lol/api/top-langs/?username=ardynatz&hide=html,scss,css&langs_count=8&layout=compact&theme=graywhite&hide_border=true"/> |
-
-## Streak & Trophies
 
 | GitHub Streak | GitHub Trophies |
 |:-------------:|:---------------:|
