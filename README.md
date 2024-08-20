@@ -16,18 +16,10 @@
 |:-------------:|:---------------:|
 | <img height="180em" src="https://github-streak-stats.ardy.lol/?user=ardynatz&theme=graywhite&hide_border=true" /> | <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ardynatz&theme=graywhite&no-frame=true&title=Stars,Followers,Commits&column=3&margin-w=15&margin-h=15" /> |
 
-## Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
 ## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardynatz/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ardynatz)
+[![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logoColor=white)](https://its.ardy.lol)
+[![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/627543656878047275)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ardynatz)
 
 ## Visitor Count
 
