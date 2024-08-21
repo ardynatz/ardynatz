@@ -15,6 +15,7 @@
 ## Connect with me
 [![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logoColor=white)](https://its.ardy.lol)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/627543656878047275)
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ardynatz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ardynatz)
 
 ## Visitor Count
