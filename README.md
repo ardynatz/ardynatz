@@ -16,8 +16,6 @@ Currently focusing on NextJS, Remix, Hono, Puppeteer/Selenium, and Rust. Very in
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ardynatz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ardynatz)
 
-## Visitor Count
-
-<img src="https://profile-counter.glitch.me/_ardynatz/count.svg" />
+![](https://komarev.com/ghpvc/?username=ardynatz)
 
 </div>
